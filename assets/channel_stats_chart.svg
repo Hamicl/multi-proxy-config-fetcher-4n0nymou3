@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-    <svg width="800" height="700" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <svg width="800" height="3950" version="1.1" xmlns="http://www.w3.org/2000/svg">
     <defs>
         <linearGradient id="grad-green" x1="0%" y1="0%" x2="100%" y2="0%">
             <stop offset="0%" stop-color="#16a34a"/>
@@ -40,121 +40,771 @@
     <text x="400" y="45" text-anchor="middle" class="title">Channel Performance Overview</text>
         <rect x="150" y="80" width="500" height="30" fill="#1e293b" rx="6"/>
         <clipPath id="clip-0">
-            <rect x="150" y="80" width="499.95" height="30" rx="6"/>
+            <rect x="150" y="80" width="499.4" height="30" rx="6"/>
         </clipPath>
-        <rect x="150" y="80" width="499.95" height="30" fill="url(#grad-green)" rx="6"/>
+        <rect x="150" y="80" width="499.4" height="30" fill="url(#grad-green)" rx="6"/>
         <g clip-path="url(#clip-0)">
             <rect x="150" y="80" width="100%" height="30" fill="url(#shimmer)" class="shimmer-rect"/>
         </g>
         <text x="135" y="100" text-anchor="end" class="row">xray_final.txt</text>
-        <text x="665" y="100" text-anchor="start" class="score">100.0% (S:100%)</text>
+        <text x="665" y="100" text-anchor="start" class="score">99.9% (S:100%)</text>
         <rect x="150" y="130" width="500" height="30" fill="#1e293b" rx="6"/>
         <clipPath id="clip-1">
-            <rect x="150" y="130" width="498.65000000000003" height="30" rx="6"/>
+            <rect x="150" y="130" width="498.95000000000005" height="30" rx="6"/>
         </clipPath>
-        <rect x="150" y="130" width="498.65000000000003" height="30" fill="url(#grad-green)" rx="6"/>
+        <rect x="150" y="130" width="498.95000000000005" height="30" fill="url(#grad-green)" rx="6"/>
         <g clip-path="url(#clip-1)">
             <rect x="150" y="130" width="100%" height="30" fill="url(#shimmer)" class="shimmer-rect"/>
         </g>
         <text x="135" y="150" text-anchor="end" class="row">DirectVPN</text>
-        <text x="665" y="150" text-anchor="start" class="score">99.7% (S:100%)</text>
+        <text x="665" y="150" text-anchor="start" class="score">99.8% (S:100%)</text>
         <rect x="150" y="180" width="500" height="30" fill="#1e293b" rx="6"/>
         <clipPath id="clip-2">
-            <rect x="150" y="180" width="496.59999999999997" height="30" rx="6"/>
+            <rect x="150" y="180" width="497.40000000000003" height="30" rx="6"/>
         </clipPath>
-        <rect x="150" y="180" width="496.59999999999997" height="30" fill="url(#grad-green)" rx="6"/>
+        <rect x="150" y="180" width="497.40000000000003" height="30" fill="url(#grad-green)" rx="6"/>
         <g clip-path="url(#clip-2)">
             <rect x="150" y="180" width="100%" height="30" fill="url(#shimmer)" class="shimmer-rect"/>
         </g>
         <text x="135" y="200" text-anchor="end" class="row">PrivateVPNs</text>
-        <text x="665" y="200" text-anchor="start" class="score">99.3% (S:100%)</text>
+        <text x="665" y="200" text-anchor="start" class="score">99.5% (S:100%)</text>
         <rect x="150" y="230" width="500" height="30" fill="#1e293b" rx="6"/>
         <clipPath id="clip-3">
-            <rect x="150" y="230" width="476.85" height="30" rx="6"/>
+            <rect x="150" y="230" width="476.4" height="30" rx="6"/>
         </clipPath>
-        <rect x="150" y="230" width="476.85" height="30" fill="url(#grad-green)" rx="6"/>
+        <rect x="150" y="230" width="476.4" height="30" fill="url(#grad-green)" rx="6"/>
         <g clip-path="url(#clip-3)">
             <rect x="150" y="230" width="100%" height="30" fill="url(#shimmer)" class="shimmer-rect"/>
         </g>
         <text x="135" y="250" text-anchor="end" class="row">sub.html</text>
-        <text x="665" y="250" text-anchor="start" class="score">95.4% (S:100%)</text>
+        <text x="665" y="250" text-anchor="start" class="score">95.3% (S:100%)</text>
         <rect x="150" y="280" width="500" height="30" fill="#1e293b" rx="6"/>
         <clipPath id="clip-4">
-            <rect x="150" y="280" width="473.35" height="30" rx="6"/>
+            <rect x="150" y="280" width="473.54999999999995" height="30" rx="6"/>
         </clipPath>
-        <rect x="150" y="280" width="473.35" height="30" fill="url(#grad-green)" rx="6"/>
+        <rect x="150" y="280" width="473.54999999999995" height="30" fill="url(#grad-green)" rx="6"/>
         <g clip-path="url(#clip-4)">
             <rect x="150" y="280" width="100%" height="30" fill="url(#shimmer)" class="shimmer-rect"/>
         </g>
-        <text x="135" y="300" text-anchor="end" class="row">Sub.txt</text>
+        <text x="135" y="300" text-anchor="end" class="row">persianvpnhub</text>
         <text x="665" y="300" text-anchor="start" class="score">94.7% (S:100%)</text>
         <rect x="150" y="330" width="500" height="30" fill="#1e293b" rx="6"/>
         <clipPath id="clip-5">
-            <rect x="150" y="330" width="453.1" height="30" rx="6"/>
+            <rect x="150" y="330" width="473.40000000000003" height="30" rx="6"/>
         </clipPath>
-        <rect x="150" y="330" width="453.1" height="30" fill="url(#grad-green)" rx="6"/>
+        <rect x="150" y="330" width="473.40000000000003" height="30" fill="url(#grad-green)" rx="6"/>
         <g clip-path="url(#clip-5)">
             <rect x="150" y="330" width="100%" height="30" fill="url(#shimmer)" class="shimmer-rect"/>
         </g>
-        <text x="135" y="350" text-anchor="end" class="row">Fast.txt</text>
-        <text x="665" y="350" text-anchor="start" class="score">90.6% (S:100%)</text>
+        <text x="135" y="350" text-anchor="end" class="row">proxy_kafee</text>
+        <text x="665" y="350" text-anchor="start" class="score">94.7% (S:100%)</text>
         <rect x="150" y="380" width="500" height="30" fill="#1e293b" rx="6"/>
         <clipPath id="clip-6">
-            <rect x="150" y="380" width="452.45" height="30" rx="6"/>
+            <rect x="150" y="380" width="473.29999999999995" height="30" rx="6"/>
         </clipPath>
-        <rect x="150" y="380" width="452.45" height="30" fill="url(#grad-green)" rx="6"/>
+        <rect x="150" y="380" width="473.29999999999995" height="30" fill="url(#grad-green)" rx="6"/>
         <g clip-path="url(#clip-6)">
             <rect x="150" y="380" width="100%" height="30" fill="url(#shimmer)" class="shimmer-rect"/>
         </g>
-        <text x="135" y="400" text-anchor="end" class="row">vless_universal.txt</text>
-        <text x="665" y="400" text-anchor="start" class="score">90.5% (S:100%)</text>
+        <text x="135" y="400" text-anchor="end" class="row">Sub.txt</text>
+        <text x="665" y="400" text-anchor="start" class="score">94.7% (S:100%)</text>
         <rect x="150" y="430" width="500" height="30" fill="#1e293b" rx="6"/>
         <clipPath id="clip-7">
-            <rect x="150" y="430" width="449.05" height="30" rx="6"/>
+            <rect x="150" y="430" width="452.75" height="30" rx="6"/>
         </clipPath>
-        <rect x="150" y="430" width="449.05" height="30" fill="url(#grad-green)" rx="6"/>
+        <rect x="150" y="430" width="452.75" height="30" fill="url(#grad-green)" rx="6"/>
         <g clip-path="url(#clip-7)">
             <rect x="150" y="430" width="100%" height="30" fill="url(#shimmer)" class="shimmer-rect"/>
         </g>
-        <text x="135" y="450" text-anchor="end" class="row">Sub.mahsa.xsparvin</text>
-        <text x="665" y="450" text-anchor="start" class="score">89.8% (S:100%)</text>
+        <text x="135" y="450" text-anchor="end" class="row">Fast.txt</text>
+        <text x="665" y="450" text-anchor="start" class="score">90.5% (S:100%)</text>
         <rect x="150" y="480" width="500" height="30" fill="#1e293b" rx="6"/>
         <clipPath id="clip-8">
-            <rect x="150" y="480" width="447.9" height="30" rx="6"/>
+            <rect x="150" y="480" width="449.6" height="30" rx="6"/>
         </clipPath>
-        <rect x="150" y="480" width="447.9" height="30" fill="url(#grad-green)" rx="6"/>
+        <rect x="150" y="480" width="449.6" height="30" fill="url(#grad-green)" rx="6"/>
         <g clip-path="url(#clip-8)">
             <rect x="150" y="480" width="100%" height="30" fill="url(#shimmer)" class="shimmer-rect"/>
         </g>
-        <text x="135" y="500" text-anchor="end" class="row">proxies.txt</text>
-        <text x="665" y="500" text-anchor="start" class="score">89.6% (S:100%)</text>
+        <text x="135" y="500" text-anchor="end" class="row">lonup_m</text>
+        <text x="665" y="500" text-anchor="start" class="score">89.9% (S:100%)</text>
         <rect x="150" y="530" width="500" height="30" fill="#1e293b" rx="6"/>
         <clipPath id="clip-9">
-            <rect x="150" y="530" width="444.90000000000003" height="30" rx="6"/>
+            <rect x="150" y="530" width="448.6" height="30" rx="6"/>
         </clipPath>
-        <rect x="150" y="530" width="444.90000000000003" height="30" fill="url(#grad-green)" rx="6"/>
+        <rect x="150" y="530" width="448.6" height="30" fill="url(#grad-green)" rx="6"/>
         <g clip-path="url(#clip-9)">
             <rect x="150" y="530" width="100%" height="30" fill="url(#shimmer)" class="shimmer-rect"/>
         </g>
-        <text x="135" y="550" text-anchor="end" class="row">persianvpnhub</text>
-        <text x="665" y="550" text-anchor="start" class="score">89.0% (S:100%)</text>
+        <text x="135" y="550" text-anchor="end" class="row">SOSkeyNET</text>
+        <text x="665" y="550" text-anchor="start" class="score">89.7% (S:100%)</text>
         <rect x="150" y="580" width="500" height="30" fill="#1e293b" rx="6"/>
         <clipPath id="clip-10">
-            <rect x="150" y="580" width="412.2" height="30" rx="6"/>
+            <rect x="150" y="580" width="448.5" height="30" rx="6"/>
         </clipPath>
-        <rect x="150" y="580" width="412.2" height="30" fill="url(#grad-green)" rx="6"/>
+        <rect x="150" y="580" width="448.5" height="30" fill="url(#grad-green)" rx="6"/>
         <g clip-path="url(#clip-10)">
             <rect x="150" y="580" width="100%" height="30" fill="url(#shimmer)" class="shimmer-rect"/>
         </g>
-        <text x="135" y="600" text-anchor="end" class="row">purkow.txt</text>
-        <text x="665" y="600" text-anchor="start" class="score">82.4% (S:100%)</text>
+        <text x="135" y="600" text-anchor="end" class="row">Sub.mahsa.xsparvin</text>
+        <text x="665" y="600" text-anchor="start" class="score">89.7% (S:100%)</text>
         <rect x="150" y="630" width="500" height="30" fill="#1e293b" rx="6"/>
         <clipPath id="clip-11">
-            <rect x="150" y="630" width="380.55" height="30" rx="6"/>
+            <rect x="150" y="630" width="447.84999999999997" height="30" rx="6"/>
         </clipPath>
-        <rect x="150" y="630" width="380.55" height="30" fill="url(#grad-green)" rx="6"/>
+        <rect x="150" y="630" width="447.84999999999997" height="30" fill="url(#grad-green)" rx="6"/>
         <g clip-path="url(#clip-11)">
             <rect x="150" y="630" width="100%" height="30" fill="url(#shimmer)" class="shimmer-rect"/>
         </g>
-        <text x="135" y="650" text-anchor="end" class="row">ir_configs.txt</text>
-        <text x="665" y="650" text-anchor="start" class="score">76.1% (S:100%)</text></svg>
+        <text x="135" y="650" text-anchor="end" class="row">vless_universal.txt</text>
+        <text x="665" y="650" text-anchor="start" class="score">89.6% (S:100%)</text>
+        <rect x="150" y="680" width="500" height="30" fill="#1e293b" rx="6"/>
+        <clipPath id="clip-12">
+            <rect x="150" y="680" width="447.75" height="30" rx="6"/>
+        </clipPath>
+        <rect x="150" y="680" width="447.75" height="30" fill="url(#grad-green)" rx="6"/>
+        <g clip-path="url(#clip-12)">
+            <rect x="150" y="680" width="100%" height="30" fill="url(#shimmer)" class="shimmer-rect"/>
+        </g>
+        <text x="135" y="700" text-anchor="end" class="row">proxies.txt</text>
+        <text x="665" y="700" text-anchor="start" class="score">89.5% (S:100%)</text>
+        <rect x="150" y="730" width="500" height="30" fill="#1e293b" rx="6"/>
+        <clipPath id="clip-13">
+            <rect x="150" y="730" width="446.70000000000005" height="30" rx="6"/>
+        </clipPath>
+        <rect x="150" y="730" width="446.70000000000005" height="30" fill="url(#grad-green)" rx="6"/>
+        <g clip-path="url(#clip-13)">
+            <rect x="150" y="730" width="100%" height="30" fill="url(#shimmer)" class="shimmer-rect"/>
+        </g>
+        <text x="135" y="750" text-anchor="end" class="row">oneclickvpnkeys</text>
+        <text x="665" y="750" text-anchor="start" class="score">89.3% (S:100%)</text>
+        <rect x="150" y="780" width="500" height="30" fill="#1e293b" rx="6"/>
+        <clipPath id="clip-14">
+            <rect x="150" y="780" width="436.4" height="30" rx="6"/>
+        </clipPath>
+        <rect x="150" y="780" width="436.4" height="30" fill="url(#grad-green)" rx="6"/>
+        <g clip-path="url(#clip-14)">
+            <rect x="150" y="780" width="100%" height="30" fill="url(#shimmer)" class="shimmer-rect"/>
+        </g>
+        <text x="135" y="800" text-anchor="end" class="row">v2ray_free_conf</text>
+        <text x="665" y="800" text-anchor="start" class="score">87.3% (S:100%)</text>
+        <rect x="150" y="830" width="500" height="30" fill="#1e293b" rx="6"/>
+        <clipPath id="clip-15">
+            <rect x="150" y="830" width="425.79999999999995" height="30" rx="6"/>
+        </clipPath>
+        <rect x="150" y="830" width="425.79999999999995" height="30" fill="url(#grad-green)" rx="6"/>
+        <g clip-path="url(#clip-15)">
+            <rect x="150" y="830" width="100%" height="30" fill="url(#shimmer)" class="shimmer-rect"/>
+        </g>
+        <text x="135" y="850" text-anchor="end" class="row">v2rayngvpn</text>
+        <text x="665" y="850" text-anchor="start" class="score">85.2% (S:100%)</text>
+        <rect x="150" y="880" width="500" height="30" fill="#1e293b" rx="6"/>
+        <clipPath id="clip-16">
+            <rect x="150" y="880" width="424.90000000000003" height="30" rx="6"/>
+        </clipPath>
+        <rect x="150" y="880" width="424.90000000000003" height="30" fill="url(#grad-green)" rx="6"/>
+        <g clip-path="url(#clip-16)">
+            <rect x="150" y="880" width="100%" height="30" fill="url(#shimmer)" class="shimmer-rect"/>
+        </g>
+        <text x="135" y="900" text-anchor="end" class="row">sub_2.txt</text>
+        <text x="665" y="900" text-anchor="start" class="score">85.0% (S:100%)</text>
+        <rect x="150" y="930" width="500" height="30" fill="#1e293b" rx="6"/>
+        <clipPath id="clip-17">
+            <rect x="150" y="930" width="411.85" height="30" rx="6"/>
+        </clipPath>
+        <rect x="150" y="930" width="411.85" height="30" fill="url(#grad-green)" rx="6"/>
+        <g clip-path="url(#clip-17)">
+            <rect x="150" y="930" width="100%" height="30" fill="url(#shimmer)" class="shimmer-rect"/>
+        </g>
+        <text x="135" y="950" text-anchor="end" class="row">purkow.txt</text>
+        <text x="665" y="950" text-anchor="start" class="score">82.4% (S:100%)</text>
+        <rect x="150" y="980" width="500" height="30" fill="#1e293b" rx="6"/>
+        <clipPath id="clip-18">
+            <rect x="150" y="980" width="408.7" height="30" rx="6"/>
+        </clipPath>
+        <rect x="150" y="980" width="408.7" height="30" fill="url(#grad-green)" rx="6"/>
+        <g clip-path="url(#clip-18)">
+            <rect x="150" y="980" width="100%" height="30" fill="url(#shimmer)" class="shimmer-rect"/>
+        </g>
+        <text x="135" y="1000" text-anchor="end" class="row">sub_3.txt</text>
+        <text x="665" y="1000" text-anchor="start" class="score">81.7% (S:100%)</text>
+        <rect x="150" y="1030" width="500" height="30" fill="#1e293b" rx="6"/>
+        <clipPath id="clip-19">
+            <rect x="150" y="1030" width="405.34999999999997" height="30" rx="6"/>
+        </clipPath>
+        <rect x="150" y="1030" width="405.34999999999997" height="30" fill="url(#grad-green)" rx="6"/>
+        <g clip-path="url(#clip-19)">
+            <rect x="150" y="1030" width="100%" height="30" fill="url(#shimmer)" class="shimmer-rect"/>
+        </g>
+        <text x="135" y="1050" text-anchor="end" class="row">sub_3.txt</text>
+        <text x="665" y="1050" text-anchor="start" class="score">81.1% (S:100%)</text>
+        <rect x="150" y="1080" width="500" height="30" fill="#1e293b" rx="6"/>
+        <clipPath id="clip-20">
+            <rect x="150" y="1080" width="405.09999999999997" height="30" rx="6"/>
+        </clipPath>
+        <rect x="150" y="1080" width="405.09999999999997" height="30" fill="url(#grad-green)" rx="6"/>
+        <g clip-path="url(#clip-20)">
+            <rect x="150" y="1080" width="100%" height="30" fill="url(#shimmer)" class="shimmer-rect"/>
+        </g>
+        <text x="135" y="1100" text-anchor="end" class="row">sub_1.txt</text>
+        <text x="665" y="1100" text-anchor="start" class="score">81.0% (S:100%)</text>
+        <rect x="150" y="1130" width="500" height="30" fill="#1e293b" rx="6"/>
+        <clipPath id="clip-21">
+            <rect x="150" y="1130" width="401.04999999999995" height="30" rx="6"/>
+        </clipPath>
+        <rect x="150" y="1130" width="401.04999999999995" height="30" fill="url(#grad-green)" rx="6"/>
+        <g clip-path="url(#clip-21)">
+            <rect x="150" y="1130" width="100%" height="30" fill="url(#shimmer)" class="shimmer-rect"/>
+        </g>
+        <text x="135" y="1150" text-anchor="end" class="row">sub_2.txt</text>
+        <text x="665" y="1150" text-anchor="start" class="score">80.2% (S:100%)</text>
+        <rect x="150" y="1180" width="500" height="30" fill="#1e293b" rx="6"/>
+        <clipPath id="clip-22">
+            <rect x="150" y="1180" width="387.59999999999997" height="30" rx="6"/>
+        </clipPath>
+        <rect x="150" y="1180" width="387.59999999999997" height="30" fill="url(#grad-green)" rx="6"/>
+        <g clip-path="url(#clip-22)">
+            <rect x="150" y="1180" width="100%" height="30" fill="url(#shimmer)" class="shimmer-rect"/>
+        </g>
+        <text x="135" y="1200" text-anchor="end" class="row">v2nodes</text>
+        <text x="665" y="1200" text-anchor="start" class="score">77.5% (S:100%)</text>
+        <rect x="150" y="1230" width="500" height="30" fill="#1e293b" rx="6"/>
+        <clipPath id="clip-23">
+            <rect x="150" y="1230" width="380.25" height="30" rx="6"/>
+        </clipPath>
+        <rect x="150" y="1230" width="380.25" height="30" fill="url(#grad-green)" rx="6"/>
+        <g clip-path="url(#clip-23)">
+            <rect x="150" y="1230" width="100%" height="30" fill="url(#shimmer)" class="shimmer-rect"/>
+        </g>
+        <text x="135" y="1250" text-anchor="end" class="row">ir_configs.txt</text>
+        <text x="665" y="1250" text-anchor="start" class="score">76.0% (S:100%)</text>
+        <rect x="150" y="1280" width="500" height="30" fill="#1e293b" rx="6"/>
+        <clipPath id="clip-24">
+            <rect x="150" y="1280" width="380.0" height="30" rx="6"/>
+        </clipPath>
+        <rect x="150" y="1280" width="380.0" height="30" fill="url(#grad-green)" rx="6"/>
+        <g clip-path="url(#clip-24)">
+            <rect x="150" y="1280" width="100%" height="30" fill="url(#shimmer)" class="shimmer-rect"/>
+        </g>
+        <text x="135" y="1300" text-anchor="end" class="row">farah_vpn</text>
+        <text x="665" y="1300" text-anchor="start" class="score">76.0% (S:100%)</text>
+        <rect x="150" y="1330" width="500" height="30" fill="#1e293b" rx="6"/>
+        <clipPath id="clip-25">
+            <rect x="150" y="1330" width="377.5" height="30" rx="6"/>
+        </clipPath>
+        <rect x="150" y="1330" width="377.5" height="30" fill="url(#grad-green)" rx="6"/>
+        <g clip-path="url(#clip-25)">
+            <rect x="150" y="1330" width="100%" height="30" fill="url(#shimmer)" class="shimmer-rect"/>
+        </g>
+        <text x="135" y="1350" text-anchor="end" class="row">sub_1.txt</text>
+        <text x="665" y="1350" text-anchor="start" class="score">75.5% (S:100%)</text>
+        <rect x="150" y="1380" width="500" height="30" fill="#1e293b" rx="6"/>
+        <clipPath id="clip-26">
+            <rect x="150" y="1380" width="334.7" height="30" rx="6"/>
+        </clipPath>
+        <rect x="150" y="1380" width="334.7" height="30" fill="url(#grad-yellow)" rx="6"/>
+        <g clip-path="url(#clip-26)">
+            <rect x="150" y="1380" width="100%" height="30" fill="url(#shimmer)" class="shimmer-rect"/>
+        </g>
+        <text x="135" y="1400" text-anchor="end" class="row">ar14n24b</text>
+        <text x="665" y="1400" text-anchor="start" class="score">66.9% (S:100%)</text>
+        <rect x="150" y="1430" width="500" height="30" fill="#1e293b" rx="6"/>
+        <clipPath id="clip-27">
+            <rect x="150" y="1430" width="200.0" height="30" rx="6"/>
+        </clipPath>
+        <rect x="150" y="1430" width="200.0" height="30" fill="url(#grad-red)" rx="6"/>
+        <g clip-path="url(#clip-27)">
+            <rect x="150" y="1430" width="100%" height="30" fill="url(#shimmer)" class="shimmer-rect"/>
+        </g>
+        <text x="135" y="1450" text-anchor="end" class="row">privatevpns</text>
+        <text x="665" y="1450" text-anchor="start" class="score">40.0% (S:0%)</text>
+        <rect x="150" y="1480" width="500" height="30" fill="#1e293b" rx="6"/>
+        <clipPath id="clip-28">
+            <rect x="150" y="1480" width="200.0" height="30" rx="6"/>
+        </clipPath>
+        <rect x="150" y="1480" width="200.0" height="30" fill="url(#grad-red)" rx="6"/>
+        <g clip-path="url(#clip-28)">
+            <rect x="150" y="1480" width="100%" height="30" fill="url(#shimmer)" class="shimmer-rect"/>
+        </g>
+        <text x="135" y="1500" text-anchor="end" class="row">directvpn</text>
+        <text x="665" y="1500" text-anchor="start" class="score">40.0% (S:0%)</text>
+        <rect x="150" y="1530" width="500" height="30" fill="#1e293b" rx="6"/>
+        <clipPath id="clip-29">
+            <rect x="150" y="1530" width="100.0" height="30" rx="6"/>
+        </clipPath>
+        <rect x="150" y="1530" width="100.0" height="30" fill="url(#grad-red)" rx="6"/>
+        <g clip-path="url(#clip-29)">
+            <rect x="150" y="1530" width="100%" height="30" fill="url(#shimmer)" class="shimmer-rect"/>
+        </g>
+        <text x="135" y="1550" text-anchor="end" class="row">proxymtprotoir</text>
+        <text x="665" y="1550" text-anchor="start" class="score">20.0% (S:0%)</text>
+        <rect x="150" y="1580" width="500" height="30" fill="#1e293b" rx="6"/>
+        <clipPath id="clip-30">
+            <rect x="150" y="1580" width="75.0" height="30" rx="6"/>
+        </clipPath>
+        <rect x="150" y="1580" width="75.0" height="30" fill="url(#grad-red)" rx="6"/>
+        <g clip-path="url(#clip-30)">
+            <rect x="150" y="1580" width="100%" height="30" fill="url(#shimmer)" class="shimmer-rect"/>
+        </g>
+        <text x="135" y="1600" text-anchor="end" class="row">marambashi</text>
+        <text x="665" y="1600" text-anchor="start" class="score">15.0% (S:0%)</text>
+        <rect x="150" y="1630" width="500" height="30" fill="#1e293b" rx="6"/>
+        <clipPath id="clip-31">
+            <rect x="150" y="1630" width="75.0" height="30" rx="6"/>
+        </clipPath>
+        <rect x="150" y="1630" width="75.0" height="30" fill="url(#grad-red)" rx="6"/>
+        <g clip-path="url(#clip-31)">
+            <rect x="150" y="1630" width="100%" height="30" fill="url(#shimmer)" class="shimmer-rect"/>
+        </g>
+        <text x="135" y="1650" text-anchor="end" class="row">hamedvpns</text>
+        <text x="665" y="1650" text-anchor="start" class="score">15.0% (S:0%)</text>
+        <rect x="150" y="1680" width="500" height="30" fill="#1e293b" rx="6"/>
+        <clipPath id="clip-32">
+            <rect x="150" y="1680" width="75.0" height="30" rx="6"/>
+        </clipPath>
+        <rect x="150" y="1680" width="75.0" height="30" fill="url(#grad-red)" rx="6"/>
+        <g clip-path="url(#clip-32)">
+            <rect x="150" y="1680" width="100%" height="30" fill="url(#shimmer)" class="shimmer-rect"/>
+        </g>
+        <text x="135" y="1700" text-anchor="end" class="row">meliproxyy</text>
+        <text x="665" y="1700" text-anchor="start" class="score">15.0% (S:0%)</text>
+        <rect x="150" y="1730" width="500" height="30" fill="#1e293b" rx="6"/>
+        <clipPath id="clip-33">
+            <rect x="150" y="1730" width="75.0" height="30" rx="6"/>
+        </clipPath>
+        <rect x="150" y="1730" width="75.0" height="30" fill="url(#grad-red)" rx="6"/>
+        <g clip-path="url(#clip-33)">
+            <rect x="150" y="1730" width="100%" height="30" fill="url(#shimmer)" class="shimmer-rect"/>
+        </g>
+        <text x="135" y="1750" text-anchor="end" class="row">wiki_tajrobe</text>
+        <text x="665" y="1750" text-anchor="start" class="score">15.0% (S:0%)</text>
+        <rect x="150" y="1780" width="500" height="30" fill="#1e293b" rx="6"/>
+        <clipPath id="clip-34">
+            <rect x="150" y="1780" width="75.0" height="30" rx="6"/>
+        </clipPath>
+        <rect x="150" y="1780" width="75.0" height="30" fill="url(#grad-red)" rx="6"/>
+        <g clip-path="url(#clip-34)">
+            <rect x="150" y="1780" width="100%" height="30" fill="url(#shimmer)" class="shimmer-rect"/>
+        </g>
+        <text x="135" y="1800" text-anchor="end" class="row">sinavm</text>
+        <text x="665" y="1800" text-anchor="start" class="score">15.0% (S:0%)</text>
+        <rect x="150" y="1830" width="500" height="30" fill="#1e293b" rx="6"/>
+        <clipPath id="clip-35">
+            <rect x="150" y="1830" width="75.0" height="30" rx="6"/>
+        </clipPath>
+        <rect x="150" y="1830" width="75.0" height="30" fill="url(#grad-red)" rx="6"/>
+        <g clip-path="url(#clip-35)">
+            <rect x="150" y="1830" width="100%" height="30" fill="url(#shimmer)" class="shimmer-rect"/>
+        </g>
+        <text x="135" y="1850" text-anchor="end" class="row">tikvpnir</text>
+        <text x="665" y="1850" text-anchor="start" class="score">15.0% (S:0%)</text>
+        <rect x="150" y="1880" width="500" height="30" fill="#1e293b" rx="6"/>
+        <clipPath id="clip-36">
+            <rect x="150" y="1880" width="75.0" height="30" rx="6"/>
+        </clipPath>
+        <rect x="150" y="1880" width="75.0" height="30" fill="url(#grad-red)" rx="6"/>
+        <g clip-path="url(#clip-36)">
+            <rect x="150" y="1880" width="100%" height="30" fill="url(#shimmer)" class="shimmer-rect"/>
+        </g>
+        <text x="135" y="1900" text-anchor="end" class="row">v2ray_tz</text>
+        <text x="665" y="1900" text-anchor="start" class="score">15.0% (S:0%)</text>
+        <rect x="150" y="1930" width="500" height="30" fill="#1e293b" rx="6"/>
+        <clipPath id="clip-37">
+            <rect x="150" y="1930" width="75.0" height="30" rx="6"/>
+        </clipPath>
+        <rect x="150" y="1930" width="75.0" height="30" fill="url(#grad-red)" rx="6"/>
+        <g clip-path="url(#clip-37)">
+            <rect x="150" y="1930" width="100%" height="30" fill="url(#shimmer)" class="shimmer-rect"/>
+        </g>
+        <text x="135" y="1950" text-anchor="end" class="row">capoit</text>
+        <text x="665" y="1950" text-anchor="start" class="score">15.0% (S:0%)</text>
+        <rect x="150" y="1980" width="500" height="30" fill="#1e293b" rx="6"/>
+        <clipPath id="clip-38">
+            <rect x="150" y="1980" width="75.0" height="30" rx="6"/>
+        </clipPath>
+        <rect x="150" y="1980" width="75.0" height="30" fill="url(#grad-red)" rx="6"/>
+        <g clip-path="url(#clip-38)">
+            <rect x="150" y="1980" width="100%" height="30" fill="url(#shimmer)" class="shimmer-rect"/>
+        </g>
+        <text x="135" y="2000" text-anchor="end" class="row">free_netc</text>
+        <text x="665" y="2000" text-anchor="start" class="score">15.0% (S:0%)</text>
+        <rect x="150" y="2030" width="500" height="30" fill="#1e293b" rx="6"/>
+        <clipPath id="clip-39">
+            <rect x="150" y="2030" width="75.0" height="30" rx="6"/>
+        </clipPath>
+        <rect x="150" y="2030" width="75.0" height="30" fill="url(#grad-red)" rx="6"/>
+        <g clip-path="url(#clip-39)">
+            <rect x="150" y="2030" width="100%" height="30" fill="url(#shimmer)" class="shimmer-rect"/>
+        </g>
+        <text x="135" y="2050" text-anchor="end" class="row">pewezavpn</text>
+        <text x="665" y="2050" text-anchor="start" class="score">15.0% (S:0%)</text>
+        <rect x="150" y="2080" width="500" height="30" fill="#1e293b" rx="6"/>
+        <clipPath id="clip-40">
+            <rect x="150" y="2080" width="75.0" height="30" rx="6"/>
+        </clipPath>
+        <rect x="150" y="2080" width="75.0" height="30" fill="url(#grad-red)" rx="6"/>
+        <g clip-path="url(#clip-40)">
+            <rect x="150" y="2080" width="100%" height="30" fill="url(#shimmer)" class="shimmer-rect"/>
+        </g>
+        <text x="135" y="2100" text-anchor="end" class="row">configraygan</text>
+        <text x="665" y="2100" text-anchor="start" class="score">15.0% (S:0%)</text>
+        <rect x="150" y="2130" width="500" height="30" fill="#1e293b" rx="6"/>
+        <clipPath id="clip-41">
+            <rect x="150" y="2130" width="75.0" height="30" rx="6"/>
+        </clipPath>
+        <rect x="150" y="2130" width="75.0" height="30" fill="url(#grad-red)" rx="6"/>
+        <g clip-path="url(#clip-41)">
+            <rect x="150" y="2130" width="100%" height="30" fill="url(#shimmer)" class="shimmer-rect"/>
+        </g>
+        <text x="135" y="2150" text-anchor="end" class="row">NetAccount</text>
+        <text x="665" y="2150" text-anchor="start" class="score">15.0% (S:0%)</text>
+        <rect x="150" y="2180" width="500" height="30" fill="#1e293b" rx="6"/>
+        <clipPath id="clip-42">
+            <rect x="150" y="2180" width="75.0" height="30" rx="6"/>
+        </clipPath>
+        <rect x="150" y="2180" width="75.0" height="30" fill="url(#grad-red)" rx="6"/>
+        <g clip-path="url(#clip-42)">
+            <rect x="150" y="2180" width="100%" height="30" fill="url(#shimmer)" class="shimmer-rect"/>
+        </g>
+        <text x="135" y="2200" text-anchor="end" class="row">v2ray_alpha</text>
+        <text x="665" y="2200" text-anchor="start" class="score">15.0% (S:0%)</text>
+        <rect x="150" y="2230" width="500" height="30" fill="#1e293b" rx="6"/>
+        <clipPath id="clip-43">
+            <rect x="150" y="2230" width="75.0" height="30" rx="6"/>
+        </clipPath>
+        <rect x="150" y="2230" width="75.0" height="30" fill="url(#grad-red)" rx="6"/>
+        <g clip-path="url(#clip-43)">
+            <rect x="150" y="2230" width="100%" height="30" fill="url(#shimmer)" class="shimmer-rect"/>
+        </g>
+        <text x="135" y="2250" text-anchor="end" class="row">darkvpnpro</text>
+        <text x="665" y="2250" text-anchor="start" class="score">15.0% (S:0%)</text>
+        <rect x="150" y="2280" width="500" height="30" fill="#1e293b" rx="6"/>
+        <clipPath id="clip-44">
+            <rect x="150" y="2280" width="75.0" height="30" rx="6"/>
+        </clipPath>
+        <rect x="150" y="2280" width="75.0" height="30" fill="url(#grad-red)" rx="6"/>
+        <g clip-path="url(#clip-44)">
+            <rect x="150" y="2280" width="100%" height="30" fill="url(#shimmer)" class="shimmer-rect"/>
+        </g>
+        <text x="135" y="2300" text-anchor="end" class="row">parsashonam</text>
+        <text x="665" y="2300" text-anchor="start" class="score">15.0% (S:0%)</text>
+        <rect x="150" y="2330" width="500" height="30" fill="#1e293b" rx="6"/>
+        <clipPath id="clip-45">
+            <rect x="150" y="2330" width="75.0" height="30" rx="6"/>
+        </clipPath>
+        <rect x="150" y="2330" width="75.0" height="30" fill="url(#grad-red)" rx="6"/>
+        <g clip-path="url(#clip-45)">
+            <rect x="150" y="2330" width="100%" height="30" fill="url(#shimmer)" class="shimmer-rect"/>
+        </g>
+        <text x="135" y="2350" text-anchor="end" class="row">configwireguard</text>
+        <text x="665" y="2350" text-anchor="start" class="score">15.0% (S:0%)</text>
+        <rect x="150" y="2380" width="500" height="30" fill="#1e293b" rx="6"/>
+        <clipPath id="clip-46">
+            <rect x="150" y="2380" width="75.0" height="30" rx="6"/>
+        </clipPath>
+        <rect x="150" y="2380" width="75.0" height="30" fill="url(#grad-red)" rx="6"/>
+        <g clip-path="url(#clip-46)">
+            <rect x="150" y="2380" width="100%" height="30" fill="url(#shimmer)" class="shimmer-rect"/>
+        </g>
+        <text x="135" y="2400" text-anchor="end" class="row">yebekhe</text>
+        <text x="665" y="2400" text-anchor="start" class="score">15.0% (S:0%)</text>
+        <rect x="150" y="2430" width="500" height="30" fill="#1e293b" rx="6"/>
+        <clipPath id="clip-47">
+            <rect x="150" y="2430" width="75.0" height="30" rx="6"/>
+        </clipPath>
+        <rect x="150" y="2430" width="75.0" height="30" fill="url(#grad-red)" rx="6"/>
+        <g clip-path="url(#clip-47)">
+            <rect x="150" y="2430" width="100%" height="30" fill="url(#shimmer)" class="shimmer-rect"/>
+        </g>
+        <text x="135" y="2450" text-anchor="end" class="row">kevinzakarian</text>
+        <text x="665" y="2450" text-anchor="start" class="score">15.0% (S:0%)</text>
+        <rect x="150" y="2480" width="500" height="30" fill="#1e293b" rx="6"/>
+        <clipPath id="clip-48">
+            <rect x="150" y="2480" width="75.0" height="30" rx="6"/>
+        </clipPath>
+        <rect x="150" y="2480" width="75.0" height="30" fill="url(#grad-red)" rx="6"/>
+        <g clip-path="url(#clip-48)">
+            <rect x="150" y="2480" width="100%" height="30" fill="url(#shimmer)" class="shimmer-rect"/>
+        </g>
+        <text x="135" y="2500" text-anchor="end" class="row">surfboardv2ray</text>
+        <text x="665" y="2500" text-anchor="start" class="score">15.0% (S:0%)</text>
+        <rect x="150" y="2530" width="500" height="30" fill="#1e293b" rx="6"/>
+        <clipPath id="clip-49">
+            <rect x="150" y="2530" width="75.0" height="30" rx="6"/>
+        </clipPath>
+        <rect x="150" y="2530" width="75.0" height="30" fill="url(#grad-red)" rx="6"/>
+        <g clip-path="url(#clip-49)">
+            <rect x="150" y="2530" width="100%" height="30" fill="url(#shimmer)" class="shimmer-rect"/>
+        </g>
+        <text x="135" y="2550" text-anchor="end" class="row">v2ray_vpn_ir</text>
+        <text x="665" y="2550" text-anchor="start" class="score">15.0% (S:0%)</text>
+        <rect x="150" y="2580" width="500" height="30" fill="#1e293b" rx="6"/>
+        <clipPath id="clip-50">
+            <rect x="150" y="2580" width="75.0" height="30" rx="6"/>
+        </clipPath>
+        <rect x="150" y="2580" width="75.0" height="30" fill="url(#grad-red)" rx="6"/>
+        <g clip-path="url(#clip-50)">
+            <rect x="150" y="2580" width="100%" height="30" fill="url(#shimmer)" class="shimmer-rect"/>
+        </g>
+        <text x="135" y="2600" text-anchor="end" class="row">mbtiuniverse</text>
+        <text x="665" y="2600" text-anchor="start" class="score">15.0% (S:0%)</text>
+        <rect x="150" y="2630" width="500" height="30" fill="#1e293b" rx="6"/>
+        <clipPath id="clip-51">
+            <rect x="150" y="2630" width="75.0" height="30" rx="6"/>
+        </clipPath>
+        <rect x="150" y="2630" width="75.0" height="30" fill="url(#grad-red)" rx="6"/>
+        <g clip-path="url(#clip-51)">
+            <rect x="150" y="2630" width="100%" height="30" fill="url(#shimmer)" class="shimmer-rect"/>
+        </g>
+        <text x="135" y="2650" text-anchor="end" class="row">vpnclashfa</text>
+        <text x="665" y="2650" text-anchor="start" class="score">15.0% (S:0%)</text>
+        <rect x="150" y="2680" width="500" height="30" fill="#1e293b" rx="6"/>
+        <clipPath id="clip-52">
+            <rect x="150" y="2680" width="75.0" height="30" rx="6"/>
+        </clipPath>
+        <rect x="150" y="2680" width="75.0" height="30" fill="url(#grad-red)" rx="6"/>
+        <g clip-path="url(#clip-52)">
+            <rect x="150" y="2680" width="100%" height="30" fill="url(#shimmer)" class="shimmer-rect"/>
+        </g>
+        <text x="135" y="2700" text-anchor="end" class="row">configir98</text>
+        <text x="665" y="2700" text-anchor="start" class="score">15.0% (S:0%)</text>
+        <rect x="150" y="2730" width="500" height="30" fill="#1e293b" rx="6"/>
+        <clipPath id="clip-53">
+            <rect x="150" y="2730" width="75.0" height="30" rx="6"/>
+        </clipPath>
+        <rect x="150" y="2730" width="75.0" height="30" fill="url(#grad-red)" rx="6"/>
+        <g clip-path="url(#clip-53)">
+            <rect x="150" y="2730" width="100%" height="30" fill="url(#shimmer)" class="shimmer-rect"/>
+        </g>
+        <text x="135" y="2750" text-anchor="end" class="row">kurdconfing</text>
+        <text x="665" y="2750" text-anchor="start" class="score">15.0% (S:0%)</text>
+        <rect x="150" y="2780" width="500" height="30" fill="#1e293b" rx="6"/>
+        <clipPath id="clip-54">
+            <rect x="150" y="2780" width="75.0" height="30" rx="6"/>
+        </clipPath>
+        <rect x="150" y="2780" width="75.0" height="30" fill="url(#grad-red)" rx="6"/>
+        <g clip-path="url(#clip-54)">
+            <rect x="150" y="2780" width="100%" height="30" fill="url(#shimmer)" class="shimmer-rect"/>
+        </g>
+        <text x="135" y="2800" text-anchor="end" class="row">shadowproxy66</text>
+        <text x="665" y="2800" text-anchor="start" class="score">15.0% (S:0%)</text>
+        <rect x="150" y="2830" width="500" height="30" fill="#1e293b" rx="6"/>
+        <clipPath id="clip-55">
+            <rect x="150" y="2830" width="75.0" height="30" rx="6"/>
+        </clipPath>
+        <rect x="150" y="2830" width="75.0" height="30" fill="url(#grad-red)" rx="6"/>
+        <g clip-path="url(#clip-55)">
+            <rect x="150" y="2830" width="100%" height="30" fill="url(#shimmer)" class="shimmer-rect"/>
+        </g>
+        <text x="135" y="2850" text-anchor="end" class="row">v2rayalpha</text>
+        <text x="665" y="2850" text-anchor="start" class="score">15.0% (S:0%)</text>
+        <rect x="150" y="2880" width="500" height="30" fill="#1e293b" rx="6"/>
+        <clipPath id="clip-56">
+            <rect x="150" y="2880" width="75.0" height="30" rx="6"/>
+        </clipPath>
+        <rect x="150" y="2880" width="75.0" height="30" fill="url(#grad-red)" rx="6"/>
+        <g clip-path="url(#clip-56)">
+            <rect x="150" y="2880" width="100%" height="30" fill="url(#shimmer)" class="shimmer-rect"/>
+        </g>
+        <text x="135" y="2900" text-anchor="end" class="row">mahsa_net</text>
+        <text x="665" y="2900" text-anchor="start" class="score">15.0% (S:0%)</text>
+        <rect x="150" y="2930" width="500" height="30" fill="#1e293b" rx="6"/>
+        <clipPath id="clip-57">
+            <rect x="150" y="2930" width="75.0" height="30" rx="6"/>
+        </clipPath>
+        <rect x="150" y="2930" width="75.0" height="30" fill="url(#grad-red)" rx="6"/>
+        <g clip-path="url(#clip-57)">
+            <rect x="150" y="2930" width="100%" height="30" fill="url(#shimmer)" class="shimmer-rect"/>
+        </g>
+        <text x="135" y="2950" text-anchor="end" class="row">config_jo</text>
+        <text x="665" y="2950" text-anchor="start" class="score">15.0% (S:0%)</text>
+        <rect x="150" y="2980" width="500" height="30" fill="#1e293b" rx="6"/>
+        <clipPath id="clip-58">
+            <rect x="150" y="2980" width="75.0" height="30" rx="6"/>
+        </clipPath>
+        <rect x="150" y="2980" width="75.0" height="30" fill="url(#grad-red)" rx="6"/>
+        <g clip-path="url(#clip-58)">
+            <rect x="150" y="2980" width="100%" height="30" fill="url(#shimmer)" class="shimmer-rect"/>
+        </g>
+        <text x="135" y="3000" text-anchor="end" class="row">vless_vpn_ch</text>
+        <text x="665" y="3000" text-anchor="start" class="score">15.0% (S:0%)</text>
+        <rect x="150" y="3030" width="500" height="30" fill="#1e293b" rx="6"/>
+        <clipPath id="clip-59">
+            <rect x="150" y="3030" width="75.0" height="30" rx="6"/>
+        </clipPath>
+        <rect x="150" y="3030" width="75.0" height="30" fill="url(#grad-red)" rx="6"/>
+        <g clip-path="url(#clip-59)">
+            <rect x="150" y="3030" width="100%" height="30" fill="url(#shimmer)" class="shimmer-rect"/>
+        </g>
+        <text x="135" y="3050" text-anchor="end" class="row">v2rootconfigpilot</text>
+        <text x="665" y="3050" text-anchor="start" class="score">15.0% (S:0%)</text>
+        <rect x="150" y="3080" width="500" height="30" fill="#1e293b" rx="6"/>
+        <clipPath id="clip-60">
+            <rect x="150" y="3080" width="75.0" height="30" rx="6"/>
+        </clipPath>
+        <rect x="150" y="3080" width="75.0" height="30" fill="url(#grad-red)" rx="6"/>
+        <g clip-path="url(#clip-60)">
+            <rect x="150" y="3080" width="100%" height="30" fill="url(#shimmer)" class="shimmer-rect"/>
+        </g>
+        <text x="135" y="3100" text-anchor="end" class="row">vmess_iran</text>
+        <text x="665" y="3100" text-anchor="start" class="score">15.0% (S:0%)</text>
+        <rect x="150" y="3130" width="500" height="30" fill="#1e293b" rx="6"/>
+        <clipPath id="clip-61">
+            <rect x="150" y="3130" width="75.0" height="30" rx="6"/>
+        </clipPath>
+        <rect x="150" y="3130" width="75.0" height="30" fill="url(#grad-red)" rx="6"/>
+        <g clip-path="url(#clip-61)">
+            <rect x="150" y="3130" width="100%" height="30" fill="url(#shimmer)" class="shimmer-rect"/>
+        </g>
+        <text x="135" y="3150" text-anchor="end" class="row">vmessprotocol</text>
+        <text x="665" y="3150" text-anchor="start" class="score">15.0% (S:0%)</text>
+        <rect x="150" y="3180" width="500" height="30" fill="#1e293b" rx="6"/>
+        <clipPath id="clip-62">
+            <rect x="150" y="3180" width="75.0" height="30" rx="6"/>
+        </clipPath>
+        <rect x="150" y="3180" width="75.0" height="30" fill="url(#grad-red)" rx="6"/>
+        <g clip-path="url(#clip-62)">
+            <rect x="150" y="3180" width="100%" height="30" fill="url(#shimmer)" class="shimmer-rect"/>
+        </g>
+        <text x="135" y="3200" text-anchor="end" class="row">zibanabz</text>
+        <text x="665" y="3200" text-anchor="start" class="score">15.0% (S:0%)</text>
+        <rect x="150" y="3230" width="500" height="30" fill="#1e293b" rx="6"/>
+        <clipPath id="clip-63">
+            <rect x="150" y="3230" width="75.0" height="30" rx="6"/>
+        </clipPath>
+        <rect x="150" y="3230" width="75.0" height="30" fill="url(#grad-red)" rx="6"/>
+        <g clip-path="url(#clip-63)">
+            <rect x="150" y="3230" width="100%" height="30" fill="url(#shimmer)" class="shimmer-rect"/>
+        </g>
+        <text x="135" y="3250" text-anchor="end" class="row">v2ray_fspeed</text>
+        <text x="665" y="3250" text-anchor="start" class="score">15.0% (S:0%)</text>
+        <rect x="150" y="3280" width="500" height="30" fill="#1e293b" rx="6"/>
+        <clipPath id="clip-64">
+            <rect x="150" y="3280" width="75.0" height="30" rx="6"/>
+        </clipPath>
+        <rect x="150" y="3280" width="75.0" height="30" fill="url(#grad-red)" rx="6"/>
+        <g clip-path="url(#clip-64)">
+            <rect x="150" y="3280" width="100%" height="30" fill="url(#shimmer)" class="shimmer-rect"/>
+        </g>
+        <text x="135" y="3300" text-anchor="end" class="row">configv2rayng</text>
+        <text x="665" y="3300" text-anchor="start" class="score">15.0% (S:0%)</text>
+        <rect x="150" y="3330" width="500" height="30" fill="#1e293b" rx="6"/>
+        <clipPath id="clip-65">
+            <rect x="150" y="3330" width="75.0" height="30" rx="6"/>
+        </clipPath>
+        <rect x="150" y="3330" width="75.0" height="30" fill="url(#grad-red)" rx="6"/>
+        <g clip-path="url(#clip-65)">
+            <rect x="150" y="3330" width="100%" height="30" fill="url(#shimmer)" class="shimmer-rect"/>
+        </g>
+        <text x="135" y="3350" text-anchor="end" class="row">irvmess</text>
+        <text x="665" y="3350" text-anchor="start" class="score">15.0% (S:0%)</text>
+        <rect x="150" y="3380" width="500" height="30" fill="#1e293b" rx="6"/>
+        <clipPath id="clip-66">
+            <rect x="150" y="3380" width="75.0" height="30" rx="6"/>
+        </clipPath>
+        <rect x="150" y="3380" width="75.0" height="30" fill="url(#grad-red)" rx="6"/>
+        <g clip-path="url(#clip-66)">
+            <rect x="150" y="3380" width="100%" height="30" fill="url(#shimmer)" class="shimmer-rect"/>
+        </g>
+        <text x="135" y="3400" text-anchor="end" class="row">v2rayhup</text>
+        <text x="665" y="3400" text-anchor="start" class="score">15.0% (S:0%)</text>
+        <rect x="150" y="3430" width="500" height="30" fill="#1e293b" rx="6"/>
+        <clipPath id="clip-67">
+            <rect x="150" y="3430" width="75.0" height="30" rx="6"/>
+        </clipPath>
+        <rect x="150" y="3430" width="75.0" height="30" fill="url(#grad-red)" rx="6"/>
+        <g clip-path="url(#clip-67)">
+            <rect x="150" y="3430" width="100%" height="30" fill="url(#shimmer)" class="shimmer-rect"/>
+        </g>
+        <text x="135" y="3450" text-anchor="end" class="row">vpn_irane</text>
+        <text x="665" y="3450" text-anchor="start" class="score">15.0% (S:0%)</text>
+        <rect x="150" y="3480" width="500" height="30" fill="#1e293b" rx="6"/>
+        <clipPath id="clip-68">
+            <rect x="150" y="3480" width="75.0" height="30" rx="6"/>
+        </clipPath>
+        <rect x="150" y="3480" width="75.0" height="30" fill="url(#grad-red)" rx="6"/>
+        <g clip-path="url(#clip-68)">
+            <rect x="150" y="3480" width="100%" height="30" fill="url(#shimmer)" class="shimmer-rect"/>
+        </g>
+        <text x="135" y="3500" text-anchor="end" class="row">v2rayirani</text>
+        <text x="665" y="3500" text-anchor="start" class="score">15.0% (S:0%)</text>
+        <rect x="150" y="3530" width="500" height="30" fill="#1e293b" rx="6"/>
+        <clipPath id="clip-69">
+            <rect x="150" y="3530" width="75.0" height="30" rx="6"/>
+        </clipPath>
+        <rect x="150" y="3530" width="75.0" height="30" fill="url(#grad-red)" rx="6"/>
+        <g clip-path="url(#clip-69)">
+            <rect x="150" y="3530" width="100%" height="30" fill="url(#shimmer)" class="shimmer-rect"/>
+        </g>
+        <text x="135" y="3550" text-anchor="end" class="row">kingproxiy</text>
+        <text x="665" y="3550" text-anchor="start" class="score">15.0% (S:0%)</text>
+        <rect x="150" y="3580" width="500" height="30" fill="#1e293b" rx="6"/>
+        <clipPath id="clip-70">
+            <rect x="150" y="3580" width="75.0" height="30" rx="6"/>
+        </clipPath>
+        <rect x="150" y="3580" width="75.0" height="30" fill="url(#grad-red)" rx="6"/>
+        <g clip-path="url(#clip-70)">
+            <rect x="150" y="3580" width="100%" height="30" fill="url(#shimmer)" class="shimmer-rect"/>
+        </g>
+        <text x="135" y="3600" text-anchor="end" class="row">proxymtpvpn</text>
+        <text x="665" y="3600" text-anchor="start" class="score">15.0% (S:0%)</text>
+        <rect x="150" y="3630" width="500" height="30" fill="#1e293b" rx="6"/>
+        <clipPath id="clip-71">
+            <rect x="150" y="3630" width="75.0" height="30" rx="6"/>
+        </clipPath>
+        <rect x="150" y="3630" width="75.0" height="30" fill="url(#grad-red)" rx="6"/>
+        <g clip-path="url(#clip-71)">
+            <rect x="150" y="3630" width="100%" height="30" fill="url(#shimmer)" class="shimmer-rect"/>
+        </g>
+        <text x="135" y="3650" text-anchor="end" class="row">mitivpn</text>
+        <text x="665" y="3650" text-anchor="start" class="score">15.0% (S:0%)</text>
+        <rect x="150" y="3680" width="500" height="30" fill="#1e293b" rx="6"/>
+        <clipPath id="clip-72">
+            <rect x="150" y="3680" width="75.0" height="30" rx="6"/>
+        </clipPath>
+        <rect x="150" y="3680" width="75.0" height="30" fill="url(#grad-red)" rx="6"/>
+        <g clip-path="url(#clip-72)">
+            <rect x="150" y="3680" width="100%" height="30" fill="url(#shimmer)" class="shimmer-rect"/>
+        </g>
+        <text x="135" y="3700" text-anchor="end" class="row">v2cnf</text>
+        <text x="665" y="3700" text-anchor="start" class="score">15.0% (S:0%)</text>
+        <rect x="150" y="3730" width="500" height="30" fill="#1e293b" rx="6"/>
+        <clipPath id="clip-73">
+            <rect x="150" y="3730" width="75.0" height="30" rx="6"/>
+        </clipPath>
+        <rect x="150" y="3730" width="75.0" height="30" fill="url(#grad-red)" rx="6"/>
+        <g clip-path="url(#clip-73)">
+            <rect x="150" y="3730" width="100%" height="30" fill="url(#shimmer)" class="shimmer-rect"/>
+        </g>
+        <text x="135" y="3750" text-anchor="end" class="row">ConfigWireguard</text>
+        <text x="665" y="3750" text-anchor="start" class="score">15.0% (S:0%)</text>
+        <rect x="150" y="3780" width="500" height="30" fill="#1e293b" rx="6"/>
+        <clipPath id="clip-74">
+            <rect x="150" y="3780" width="75.0" height="30" rx="6"/>
+        </clipPath>
+        <rect x="150" y="3780" width="75.0" height="30" fill="url(#grad-red)" rx="6"/>
+        <g clip-path="url(#clip-74)">
+            <rect x="150" y="3780" width="100%" height="30" fill="url(#shimmer)" class="shimmer-rect"/>
+        </g>
+        <text x="135" y="3800" text-anchor="end" class="row">beshkan</text>
+        <text x="665" y="3800" text-anchor="start" class="score">15.0% (S:0%)</text>
+        <rect x="150" y="3830" width="500" height="30" fill="#1e293b" rx="6"/>
+        <clipPath id="clip-75">
+            <rect x="150" y="3830" width="75.0" height="30" rx="6"/>
+        </clipPath>
+        <rect x="150" y="3830" width="75.0" height="30" fill="url(#grad-red)" rx="6"/>
+        <g clip-path="url(#clip-75)">
+            <rect x="150" y="3830" width="100%" height="30" fill="url(#shimmer)" class="shimmer-rect"/>
+        </g>
+        <text x="135" y="3850" text-anchor="end" class="row">sub_4.txt</text>
+        <text x="665" y="3850" text-anchor="start" class="score">15.0% (S:0%)</text>
+        <rect x="150" y="3880" width="500" height="30" fill="#1e293b" rx="6"/>
+        <clipPath id="clip-76">
+            <rect x="150" y="3880" width="75.0" height="30" rx="6"/>
+        </clipPath>
+        <rect x="150" y="3880" width="75.0" height="30" fill="url(#grad-red)" rx="6"/>
+        <g clip-path="url(#clip-76)">
+            <rect x="150" y="3880" width="100%" height="30" fill="url(#shimmer)" class="shimmer-rect"/>
+        </g>
+        <text x="135" y="3900" text-anchor="end" class="row">sub_4.txt</text>
+        <text x="665" y="3900" text-anchor="start" class="score">15.0% (S:0%)</text></svg>
